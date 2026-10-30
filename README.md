@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm María López Padilla 👋
 
-<!--
-**mariaalopez4/mariaalopez4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineer** specialized in **Cyber Threat Intelligence**, Security Automation, and Graph Architectures. Currently engineering security data pipelines at **Banco de España**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Focus & Tech Stack
+
+- **Languages:** Python, JavaScript / Node.js, C#, Java, SQL, Bash
+- **Cybersecurity & Intelligence:** Threat Intelligence, OSINT / SOCMINT, OWASP, Wireshark, Nmap
+- **Data & Architecture:** Neo4j, GraphRAG, Docker, High-Performance Pipelines
+- **Automation:** Playwright, Power Automate, CI/CD Actions
+
+---
+
+### 🚀 Featured Project
+
+- **[web-audit-cli](https://github.com/mariaalopez4/web-audit-cli)** — High-throughput headless Chromium CLI tool for runtime exception tracking and OWASP HTTP security headers auditing.
+
+---
+
+### 🌐 Connect with me
+
+- **Portfolio:** [mariaalopez4.github.io](https://mariaalopez4.github.io)
+- **LinkedIn:** [linkedin.com/in/marialopezpadilla](https://www.linkedin.com/in/marialopezpadilla/)
+- **Email:** [marialopezpadilla5@gmail.com](mailto:marialopezpadilla5@gmail.com)
